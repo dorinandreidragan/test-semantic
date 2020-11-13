@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echp \"TODO: no build specified\"",
     "semantic-release": "semantic-release"
   },
   "repository": {
